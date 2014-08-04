@@ -83,7 +83,7 @@
 }
 .page .header .banner {
   background: #222222 url("../images/background/heading.png") repeat;
-  height: 56px;
+  height: 90px;
 }
 .page .header .banner img {
   padding: 6px;
@@ -93,11 +93,11 @@
   padding: 6px;
   font-weight: 400;
   font-size: 20px;
-  color: #eee;
+  color: #5988af;
   text-shadow: #222222 0px 1px 0px;
 }
 .page .header .banner h1 strong {
-  color: #fff;
+  color: #5988af;
 }
 .page .header .person-name {
   position: absolute;
